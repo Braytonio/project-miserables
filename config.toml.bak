@@ -1,0 +1,12 @@
+
+baseurl = "http://Braytonio.github.io/project-miserables"
+languageCode = "en-us"
+title = "Confessions of a Paraguayan Marlboro Man"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+- category: "categories"
+- tag: "tags"
+canonifyurls: true
+
